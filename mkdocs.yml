@@ -9,5 +9,5 @@ theme:
     - content.action.edit
     - content.action.view
   palette:
-    primary: green
-    accent: green
+    primary: red
+    accent: red

@@ -55,22 +55,27 @@ Fundamentos de gerência de redes e áreas de gerenciamento. Arquiteturas e mode
 - Segurança em protocolos e serviços
 - Segurança de IP
 - Segurança de e-mail
-Segurança na Web
-Padrões e organizações de definição de padrões
-A importância dos padrões
-ABNT NBR ISO/IEC 27001
-Política de segurança
-Legislação nacional de segurança da informação:Marco Civil da Internet (Lei nº 12.965/2014)e aLei Geral de Proteção de Dados (LGPD– Lei nº 13.709/2018).
-3Procedimentos Metodológicos
+- Segurança na Web
+- Padrões e organizações de definição de padrões
+- A importância dos padrões
+- ABNT NBR ISO/IEC 27001
+- Política de segurança
+- Legislação nacional de segurança da informação:Marco Civil da Internet (Lei nº 12.965/2014)e aLei Geral de Proteção de Dados (LGPD– Lei nº 13.709/2018).
+
+***3 Procedimentos Metodológicos***
+
 Para o desenvolvimento desta disciplina, adotaremos aulas expositivas dialogadas e atividades práticas. Utilizaremos abordagens diversificadas e dinâmicas que integrem conteúdos teóricos e práticos, por meio de métodos de resolução de problemas, trabalhos em grupo, estudos dirigidos e uso de tecnologias educacionais. Consideramos essencial, ainda, a utilização de recursos como laboratórios, slides, vídeos, softwares, simulações de experimentos e outros materiais didáticos que favoreçam um envolvimento mais eficaz e motivador dos(as) estudantes no processo de ensino-aprendizagem. A disciplina integrará suas atividades ao projeto integrador desenvolvido no período.
 
-4Recursos Didáticos
+***4 Recursos Didáticos***
+
 Quadro branco, computador, laboratório adequado para a disciplina, projetor multimídia, vídeos, softwares de apoio, material teórico específico e outras ferramentas tecnológicas.
 
-5Avaliação
+***5 Avaliação***
+
 A avaliação realizar-se-á de forma dialógica, diagnóstica, processual, formativa e contínua, mediante sistematização dos conteúdos, estabelecendo-se relações entre os objetivos propostos e sua efetivação, considerando a frequência, a colaboração e a participação nas atividades desenvolvidas individuais ou em grupo, utilizando-se instrumentos avaliativos diversificados e compatíveis com a natureza da disciplina. Portanto, considera-se o desenvolvimento de avaliações escritas e práticas, trabalhos em grupo e individuais e apresentação de seminários. A disciplina faz parte do projeto integrador e portanto parte de sua avaliação será integrada ao trabalho desenvolvido no semestre.
 
-6Bibliografia Básica
+***6 Bibliografia Básica***
+
 1. Nakamura, Emílio Tissato e Geus, Paulo Lício de. Segurança em Redes. Novatec Editora 4ª Edição, 2007.
 
 2. Stallings, William. Criptografia e segurança de redes: princípios e práticas. Editora Pearson, 4ª Edição, 2023.
