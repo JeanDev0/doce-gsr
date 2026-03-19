@@ -6,15 +6,15 @@
 **Técnico de Nível Médio em Redes de Computadores, na Forma Subsequente**
 Disciplina
 
-####Gerência e Segurança de Redes
+###Gerência e Segurança de Redes
 
 Carga horária: 60h
 
-#####Ementa
+####Ementa
 
 Fundamentos de gerência de redes e áreas de gerenciamento. Arquiteturas e modelos de gerenciamento OSI e Internet. Protocolos e padrões de gerenciamento, com ênfase em SNMP e RMON. Ferramentas de monitoramento e gerência de redes. Fundamentos e mecanismos de segurança de redes. Tecnologias de defesa, criptografia, VPN e autenticação. Segurança em protocolos e serviços de rede. Padrões, políticas e legislação de segurança da informação.
 
-#####Programa
+####Programa
 ***1 Objetivos***
 
 - Compreender os principais problemas relacionados à gerência de redes de computadores.
@@ -42,19 +42,19 @@ Fundamentos de gerência de redes e áreas de gerenciamento. Arquiteturas e mode
 - Estudo/implantação de ferramenta de gerência
 - Introdução a Segurança de Redes
 - A necessidade de segurança
-Tendências de segurança
-Conceitos básicos de segurança
-Mecanismos de segurança
-Técnicas e tecnologias disponíveis para defesa
-Firewall
-Sistema de detecção de intrusões
-A criptografia e a PKI
-Rede privada virtual
-Autenticação
-Gestão e armazenamento de logs
-Segurança em protocolos e serviços
-Segurança de IP
-Segurança de e-mail
+- Tendências de segurança
+- Conceitos básicos de segurança
+- Mecanismos de segurança
+- Técnicas e tecnologias disponíveis para defesa
+- Firewall
+- Sistema de detecção de intrusões
+- A criptografia e a PKI
+- Rede privada virtual
+- Autenticação
+- Gestão e armazenamento de logs
+- Segurança em protocolos e serviços
+- Segurança de IP
+- Segurança de e-mail
 Segurança na Web
 Padrões e organizações de definição de padrões
 A importância dos padrões

@@ -1,6 +1,5 @@
-# Primeira aula de GSR
+# Inicio
 
-**Está é a primeira aula**
 
 ## Comandos
 
