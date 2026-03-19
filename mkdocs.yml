@@ -5,3 +5,10 @@ site_url: https://JeanDev0.github.io/doce-gsr/
 theme:
   name: material
   language: pt
+
+  features:
+    - content.action.edit
+    - content.action.view
+  palette:
+    primary: red
+    accent: red
